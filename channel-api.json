@@ -1,0 +1,101 @@
+16
+[[115,["noop"]]]2678
+[[116,[{
+  "documentChange": {
+    "document": {
+      "name": "projects/gpt-engineer-390607/databases/(default)/documents/projects/8ebb141c-3487-4dea-bf89-632c8e297508",
+      "fields": {
+        "is_published": {
+          "booleanValue": false
+        },
+        "locked_at": {
+          "timestampValue": "2025-04-12T03:17:59.937Z"
+        },
+        "created_by": {
+          "stringValue": "6Z2QCpPJ0rgZnzdfPwYIDAj3uKJ2"
+        },
+        "remix_count": {
+          "integerValue": "0"
+        },
+        "status": {
+          "stringValue": "completed"
+        },
+        "user_message_count": {
+          "integerValue": "1"
+        },
+        "visibility": {
+          "stringValue": "public"
+        },
+        "archived": {
+          "booleanValue": false
+        },
+        "available_project_migrations": {
+          "nullValue": null
+        },
+        "id": {
+          "stringValue": "8ebb141c-3487-4dea-bf89-632c8e297508"
+        },
+        "creation_options": {
+          "mapValue": {
+            "fields": {
+              "visibility": {
+                "stringValue": "public"
+              },
+              "description": {
+                "stringValue": "create a table app like the image exactly, it is from https://websets.exa.ai/cm7cpnugy008jhfqecmk310i1"
+              },
+              "tech_stack": {
+                "stringValue": ""
+              }
+            }
+          }
+        },
+        "description": {
+          "stringValue": "create a table app like the image exactly, it is from https://websets.exa.ai/cm7cpnugy008jhfqecmk310i1"
+        },
+        "name": {
+          "stringValue": "websets-table-mirror"
+        },
+        "git_on_s3": {
+          "booleanValue": true
+        },
+        "github_owner": {
+          "mapValue": {
+            "fields": {
+              "name": {
+                "stringValue": "GPT-Engineer-App"
+              },
+              "type": {
+                "stringValue": "Organization"
+              }
+            }
+          }
+        },
+        "user_id": {
+          "stringValue": "6Z2QCpPJ0rgZnzdfPwYIDAj3uKJ2"
+        },
+        "is_github": {
+          "booleanValue": false
+        },
+        "use_project_id_as_repo_identifier": {
+          "booleanValue": true
+        },
+        "updated_at": {
+          "timestampValue": "2025-04-12T03:17:31.406Z"
+        },
+        "tech_stack": {
+          "stringValue": "vite_react_shadcn_ts"
+        },
+        "created_at": {
+          "timestampValue": "2025-04-12T03:17:28.589Z"
+        }
+      },
+      "createTime": "2025-04-12T03:17:28.612546Z",
+      "updateTime": "2025-04-12T03:17:59.953037Z"
+    },
+    "targetIds": [
+      28
+    ]
+  }
+}
+]]]
