@@ -1,0 +1,3 @@
+[submodule "websets-table-mirror"]
+	path = websets-table-mirror
+	url = git@github.com:lvsheng/websets-table-mirror.git
