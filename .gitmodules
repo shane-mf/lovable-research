@@ -1,3 +1,6 @@
 [submodule "websets-table-mirror"]
 	path = websets-table-mirror
 	url = git@github.com:lvsheng/websets-table-mirror.git
+[submodule "lovable-generated-another-project"]
+	path = lovable-generated-another-project
+	url = git@github.com:lvsheng/tabular-canvas-crafter.git
